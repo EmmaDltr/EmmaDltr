@@ -27,3 +27,5 @@
   <a href="https://www.apple.com/befr/macos/" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/></a>
   <a href="https://www.microsoft.com/fr-be/windows" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
 </p>
+
+<!-- <a href="LINK" target="_blank">IMG</a> -->
